@@ -1,0 +1,59 @@
+# Header
+menu:
+  首页: /
+  画廊: /gallery
+  案例: /stories
+  新闻: /archives
+  关于: /about
+  # 客户案例: /projects
+  # 客户评价: /testimonials
+  # 公司简介: /about
+  # 联系我们: /callme
+
+# Content
+excerpt_link: 阅读全文
+
+# MIIT ICP/IP/DOMAIN
+beian: 
+  enable: false
+  number: 
+  url: https://beian.miit.gov.cn/
+
+# Miscellaneous
+favicon: /images/favicon.ico
+webclip: /images/webclip
+brand:   /images/brand.svg
+
+# Jumbotron video & Hero image & Swiper
+## Jumbotron video
+video: 
+  overlay: false
+  path: /images/movie/
+## Hero image
+hero: 
+  image: /images/image.png
+## Swiper
+## https://github.com/nolimits4web/swiper
+swiper: 
+  enable: false
+
+# Toc
+## https://github.com/tscanlin/tocbot
+toc: true
+
+# Slogan
+slogan: 
+  primary: 焕然一新
+  secondary:  一站式装饰解决方案，让美好触手可及
+  archives:  缔造美好生活，从优质设计开始
+  pages: 运维更智能 部署更方便 应用更便捷
+  posts: 实践见真知既是最好的解释
+
+# Library
+libs:
+  feather: /libs/feather/feather.min.js # V4.29.0
+  lazysizes: /libs/lazysizes/lazysizes.min.js
+  tocbot: /libs/tocbot/tocbot.min.js
+  swiper: 
+    css: /libs/swiper/swiper-bundle.min.css
+    js:  /libs/swiper/swiper-bundle.min.js
